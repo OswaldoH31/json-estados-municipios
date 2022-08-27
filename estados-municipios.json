@@ -1,19 +1,20 @@
 {
-   "Estados":[
-        {
-           "Es": "Aguascalientes"
-        },
-        {
-           "Es": "Baja California"
-        }
-      
-        {
-           "Es": "Aguascalientes": ["Aguascalientes","Asientos","Calvillo","Cosio","El Llano","Jesus Maria","Pabellon de Arteaga","Rincon de Romos","San Francisco de los Romo","San Jose de Gracia","Tepezala"]
-        },
-        {
-
-           "Es": "Baja California": ["Ensenada","Mexicali","Playas de Rosarito","Tecate","Tijuana"]
-        }
-    ]
-   
-}
+    "Estados":[
+         {
+            "Es": "Aguascalientes"
+         },
+         {
+            "Es": "Baja California"
+         },
+         {
+            "Es": "Aguascalientes",
+            "Municipio" : ["Aguascalientes","Asientos","Calvillo","Cosio","El Llano","Jesus Maria","Pabellon de Arteaga","Rincon de Romos","San Francisco de los Romo","San Jose de Gracia","Tepezala"]
+         },
+         {
+ 
+            "Es": "Baja California",
+            "Municipio": ["Ensenada","Mexicali","Playas de Rosarito","Tecate","Tijuana"]
+         }
+     ]
+    
+ }
