@@ -8,12 +8,64 @@
          },
          {
             "Es": "Aguascalientes",
-            "Municipio" : {"Aguascalientes","Asientos","Calvillo","Cosio","El Llano","Jesus Maria","Pabellon de Arteaga","Rincon de Romos","San Francisco de los Romo","San Jose de Gracia","Tepezala"}
+            "Municipio" : 
+                        [
+                            {
+                                "Ag":"Aguascalientes"
+                            }, 
+                            { 
+                                "Ag":"Asientos"
+                            },
+                            {
+                                "Ag":"Calvillo"
+                            },
+                            { 
+                                "Ag":"Cosio"
+                            },
+                            { 
+                                "Ag":"El Llano"
+                            },
+                            {
+                                "Ag":"Jesus Maria"
+                            },
+                            {
+                                "Ag":"Pabellon de Arteaga"
+                            },
+                            {
+                                "Ag":"Rincon de Romos"
+                            },
+                            {
+                                "Ag":"San Francisco de los Romo"
+                            },
+                            {
+                                "Ag":"San Jose de Gracia"
+                            },
+                            {
+                                "Ag":"Tepezala"
+                            }   
+                        ]
          },
          {
  
             "Es": "Baja California",
-            "Municipio": {"Ensenada","Mexicali","Playas de Rosarito","Tecate","Tijuana"}
+            "Municipio": 
+                        [
+                            {
+                                "Bc":"Ensenada"
+                            },
+                            {
+                                "Bc":"Mexicali"
+                            },
+                            {
+                                "Bc":"Playas de Rosarito"
+                            },
+                            {
+                                "Bc":"Tecate"
+                            },
+                            {
+                                "Bc":"Tijuana"
+                            }    
+                        ]
          }
      ]
     
