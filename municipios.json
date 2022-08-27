@@ -1,0 +1,54 @@
+{  
+    "Aguascalientes": [
+          {
+            "Ag": "Aguascalientes"
+          },
+          {
+            "Ag": "Asientos"
+          },
+          {
+            "Ag": "Calvillo"
+          },
+          {
+            "Ag": "Cosio"
+          },
+          {
+            "Ag": "El Llano"
+          },
+          {
+            "Ag": "Jesus Maria"
+          },
+          {
+            "Ag": "Pabellon de Arteaga"
+          },
+          {
+            "Ag": "Rincon de Romos"
+          },
+          {
+            "Ag": "San Francisco de los Romo"
+          },
+          {
+            "Ag": "San Jose de Gracia"
+          },
+          {
+            "Ag": "Tepezala"
+          }
+    ],
+    "Baja California": [
+          {
+            "Bc": "Ensenada"
+          },
+          {
+            "Bc": "Mexicali"
+          },
+          {
+            "Bc": "Playas de Rosarito"
+          },
+          {
+            "Bc": "Tecate"
+          },
+          {
+            "Bc": "Tijuana"
+          }
+    ]
+}
