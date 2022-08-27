@@ -1,10 +1,10 @@
 {
    "Estados":[
         {
-            "Aguascalientes"
+           "Es": "Aguascalientes"
         },
         {
-            "Baja California"
+           "Es": "Baja California"
         }
     ]
 }
