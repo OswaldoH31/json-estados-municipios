@@ -7,66 +7,89 @@
             "Es": "Baja California"
          },
          {
-            "Es": "Aguascalientes",
-            "Municipio" : 
-                        [
-                            {
-                                "Ag":"Aguascalientes"
-                            }, 
-                            { 
-                                "Ag":"Asientos"
-                            },
-                            {
-                                "Ag":"Calvillo"
-                            },
-                            { 
-                                "Ag":"Cosio"
-                            },
-                            { 
-                                "Ag":"El Llano"
-                            },
-                            {
-                                "Ag":"Jesus Maria"
-                            },
-                            {
-                                "Ag":"Pabellon de Arteaga"
-                            },
-                            {
-                                "Ag":"Rincon de Romos"
-                            },
-                            {
-                                "Ag":"San Francisco de los Romo"
-                            },
-                            {
-                                "Ag":"San Jose de Gracia"
-                            },
-                            {
-                                "Ag":"Tepezala"
-                            }   
-                        ]
+            "Es": "Baja California Sur"
          },
          {
- 
-            "Es": "Baja California",
-            "Municipio": 
-                        [
-                            {
-                                "Bc":"Ensenada"
-                            },
-                            {
-                                "Bc":"Mexicali"
-                            },
-                            {
-                                "Bc":"Playas de Rosarito"
-                            },
-                            {
-                                "Bc":"Tecate"
-                            },
-                            {
-                                "Bc":"Tijuana"
-                            }    
-                        ]
+            "Es": "Campeche"
+         },
+         {
+            "Es": "Coahuila"
+         },
+         {
+            "Es": "Colima"
+         },
+         {
+            "Es": "Chihuahua"
+         },
+         {
+            "Es": "Ciudad de Mexico"
+         },
+         {
+            "Es": "Durango"
+         },
+         {
+            "Es": "Guanajuato"
+         },
+         {
+            "Es": "Hidalgo"
+         },
+         {
+            "Es": "Estado de Mexico"
+         },
+         {
+            "Es": "Michoacan"
+         },
+         {
+            "Es": "Morelos"
+         },
+         {
+            "Es": "Nayarit"
+         },
+         {
+            "Es": "Nuevo Leon"
+         },
+
+
+         {
+            "Es": "Oaxaca"
+         },
+         {
+            "Es": "Puebla"
+         },
+         {
+            "Es": "Queretaro"
+         },
+         {
+            "Es": "Quintana Roo"
+         },
+         {
+            "Es": "San Luis Potosi"
+         },
+         {
+            "Es": "Sinaloa"
+         },
+         {
+            "Es": "Sonora"
+         },
+         {
+            "Es": "Tabasco"
+         },
+         {
+            "Es": "Tamaulipas"
+         },
+         {
+            "Es": "Tlaxcala"
+         },
+         {
+            "Es": "Veracruz"
+         },
+         {
+            "Es": "Yucatan"
+         },
+         {
+            "Es": "Zacatecas"
          }
+
      ]
     
  }
